@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
   color: white;
+  word-break: break-all;
 }
 @@font-face {
   font-family: "myfont";
